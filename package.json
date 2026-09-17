@@ -1,0 +1,15 @@
+{
+  "name": "tiffin-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A focused owner console for tiffin subscriptions, pauses, and pro-rated billing.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+tiffinservice.sqlite
+tiffinservice.sqlite-shm
+tiffinservice.sqlite-wal
+dabbadaily.sqlite
+dabbadaily.sqlite-shm
+dabbadaily.sqlite-wal
+auriga.sqlite
+auriga.sqlite-shm
+auriga.sqlite-wal
+.env
